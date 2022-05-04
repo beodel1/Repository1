@@ -51,6 +51,3 @@ TRAILING NULLCOLS
 	DC_ALGORITHM_BANDING                  filler,
 	DC_ALGORITHM_DESCRIPTION              filler
 )
-
-
-
