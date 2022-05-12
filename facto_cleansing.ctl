@@ -32,7 +32,7 @@ TRAILING NULLCOLS
 	DC_COUNTRY                            char,
 	DC_COMPANY_TYPE                       filler,
 	DC_COMPANY_TYPE_DESCRIPTION           filler,
-	DC_PHONE                              char,
+	DC_PHONE                              "tirm(:DC_PHONE)",
 	DC_SIC_CODE                           filler,
 	DC_SIC_DESC                           filler,
 	DC_LEGAL_FORM                         char,
