@@ -25,7 +25,7 @@ TRAILING NULLCOLS
 	DC_ADDRESS1                           char,
 	DC_ADDRESS2                           char,
 	DC_ADDRESS3                           char,
-	DC_TOWN                               char,
+	DC_TOWN                               "trim(:DC_TOWN)",
 	DC_POSTCODE                           char,
 	DC_REGION                             char,
 	DC_PROVINCE_STATE                     char,
