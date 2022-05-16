@@ -17,6 +17,15 @@ TRAILING NULLCOLS
 	CustCountryCode                       char,
 	CustFedId                             char,
 	CustPhone                             char,
+	15
+	17
+	19
+	16
+	18
+	20
+	21
+	22
+	23
 	DC_CONNECTID                          filler,
 	DC_GGSID                              char,
 	DC_CONAME                             "substr(:DC_CONAME, 1, 255)",
