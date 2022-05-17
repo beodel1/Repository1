@@ -17,11 +17,15 @@ TRAILING NULLCOLS
 	CustCountryCode                       char,
 	CustFedId                             char,
 	CustPhone                             char,
+	11
+	12
+	13
+	14
 	15
-	17
-	19
 	16
+	17
 	18
+	19
 	20
 	21
 	22
