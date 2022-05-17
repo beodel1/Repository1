@@ -23,15 +23,18 @@ TRAILING NULLCOLS
 	14
 	15
 	16
+	17
 	18
 	19
+	20
+	21
+	22
+	23
 	DC_CONNECTID                          filler,
 	DC_GGSID                              char,
 	DC_CONAME                             "substr(:DC_CONAME, 1, 255)",
 	DC_REG_NUMBER                         char,
 	DC_ORG_NUMBER                         char,
-	
-	
 	DC_ADDRESS1                           char,
 	DC_ADDRESS2                           char,
 	DC_ADDRESS3                           char,
